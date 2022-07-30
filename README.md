@@ -1,3 +1,3 @@
 # GoogleSubscription
 Videos
-- [1: Basic implementaion](https://www.youtube.com/watch?v=oOgI03ctPNo)
+- [Papaya Coders Playlist](https://www.youtube.com/watch?v=oOgI03ctPNo&list=PL6Rs84MkNq7lBC5BdPixussAH_mVI0tr8)
